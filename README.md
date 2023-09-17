@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anas_pirzada1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anas_pirzada1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-pirzada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-pirzada/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anas-pirzada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-pirzada/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/pirzadaanas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pirzadaanas1" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anas_pirzada1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anas_pirzada1/" height="30" width="40" /></a>
+<a href="https://instagram.com/anas_pirzada1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anas_pirzada1/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/the sci cod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the sci cod" height="30" width="40" /></a>
 </p>
 
