@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/anas_pirzada1" target="blank"><img src="https://img.shields.io/twitter/follow/anas_pirzada1?logo=twitter&style=for-the-badge" alt="anas_pirzada1" /></a> </p>
 
-- 🔭 I’m currently working on **Image Generator**
+- 🔭 I’m currently working on **braleo admin panel**
 
 - 🌱 I’m currently learning **React Next , Laravel , Data Science**
 
