@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Multiple Projects in Reactjs <br><br>🌱 I’m currently learning Nextjs, Django<br><br>💬 Ask me about Reactjs, Nextjs, Python, PHP, Django
+🔭 I’m currently working on Multiple Projects in Reactjs,Nextjs <br><br>🌱 I’m currently learning Django<br><br>💬 Ask me about Reactjs, Nextjs, Python, PHP, Django
 
 
 ## 🌐 Socials:
