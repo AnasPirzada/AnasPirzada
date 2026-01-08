@@ -8,10 +8,10 @@ I create software that ages well by solving problems before they become "urgent,
   <a href="https://anaspirzada.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anaspirzada/">
+  <a href="https://www.linkedin.com/in/muhammadanaspirzada/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anaspirzada@gmail.com">
+  <a href="mailto:anaspirzadaiub@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
