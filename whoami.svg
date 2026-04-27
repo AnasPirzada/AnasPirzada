@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <rect width="800" height="160" fill="#0d1117" rx="8"/>
+  <text x="20" y="28" fill="#58a6ff" font-size="13" font-family="Courier New, monospace">$ whoami</text>
+  <line x1="20" y1="36" x2="780" y2="36" stroke="#21262d" stroke-width="1"/>
+  <rect x="15" y="46" width="770" height="108" fill="#161b22" rx="6"/>
+  <rect x="15" y="46" width="3" height="108" fill="#00FF9C" rx="2"/>
+  <text x="30" y="70" font-family="Courier New, monospace" font-size="12"><tspan fill="#7ee787">name        </tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">Anas Pirzada</tspan></text>
+  <text x="30" y="90" font-family="Courier New, monospace" font-size="12"><tspan fill="#7ee787">role        </tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">Full-Stack Engineer</tspan></text>
+  <text x="30" y="110" font-family="Courier New, monospace" font-size="12"><tspan fill="#7ee787">mission     </tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">Ship systems that do not page anyone at 3AM</tspan></text>
+  <text x="30" y="130" font-family="Courier New, monospace" font-size="12"><tspan fill="#7ee787">track_record</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">Thousands of daily users. High uptime. Low drama.</tspan></text>
+  <text x="400" y="154" text-anchor="middle" fill="#6e7681" font-size="11" font-style="italic" font-family="Courier New, monospace">"The best code is the kind future-you does not resent."</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <rect width="800" height="200" fill="#0d1117" rx="10"/>
+  <rect x="2" y="2" width="796" height="196" fill="none" stroke="#00FF9C" stroke-width="1.5" stroke-dasharray="6,4" rx="8" opacity="0.6"/>
+  <text x="10" y="24" fill="#00FF9C" font-size="16" font-family="Courier New, monospace">+</text>
+  <text x="776" y="24" fill="#00FF9C" font-size="16" font-family="Courier New, monospace">+</text>
+  <text x="10" y="196" fill="#00FF9C" font-size="16" font-family="Courier New, monospace">+</text>
+  <text x="776" y="196" fill="#00FF9C" font-size="16" font-family="Courier New, monospace">+</text>
+  <text x="400" y="100" text-anchor="middle" fill="#ffffff" font-size="74" font-weight="900" font-family="Courier New, monospace" letter-spacing="10">ANAS</text>
+  <text x="400" y="100" text-anchor="middle" fill="#00FF9C" font-size="74" font-weight="900" font-family="Courier New, monospace" letter-spacing="10" opacity="0.18">ANAS</text>
+  <text x="400" y="152" text-anchor="middle" fill="#ffffff" font-size="52" font-weight="900" font-family="Courier New, monospace" letter-spacing="6" opacity="0.92">PIRZADA</text>
+  <text x="400" y="152" text-anchor="middle" fill="#7C3AED" font-size="52" font-weight="900" font-family="Courier New, monospace" letter-spacing="6" opacity="0.35">PIRZADA</text>
+  <text x="400" y="184" text-anchor="middle" fill="#8b949e" font-size="13" font-family="Courier New, monospace">Full-Stack Engineer  |  Systems Architect  |  Building software that ages well</text>
+  <circle cx="30" cy="100" r="3" fill="#00FF9C" opacity="0.7"/>
+  <circle cx="770" cy="100" r="3" fill="#7C3AED" opacity="0.7"/>
+</svg>

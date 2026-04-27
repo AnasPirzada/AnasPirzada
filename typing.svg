@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <rect width="800" height="50" fill="#161b22" rx="8"/>
+  <rect x="1" y="1" width="798" height="48" fill="none" stroke="#21262d" stroke-width="1" rx="7"/>
+  <text x="20" y="32" fill="#00FF9C" font-size="14" font-family="Courier New, monospace">$</text>
+  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
+    <tspan>&#x2192; Solving problems before they become "urgent"</tspan>
+    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="16s" repeatCount="indefinite"/>
+  </text>
+  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
+    <tspan>&#x2192; Systems serving thousands of daily users</tspan>
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="16s" repeatCount="indefinite"/>
+  </text>
+  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
+    <tspan>&#x2192; Zero midnight alerts. High uptime. Low drama.</tspan>
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="16s" repeatCount="indefinite"/>
+  </text>
+  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
+    <tspan>&#x2192; Deep-diving into distributed systems</tspan>
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="16s" repeatCount="indefinite"/>
+  </text>
+  <rect x="560" y="18" width="8" height="16" fill="#00FF9C" rx="1">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
