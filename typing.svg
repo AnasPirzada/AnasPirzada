@@ -1,24 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
-  <rect width="800" height="50" fill="#161b22" rx="8"/>
-  <rect x="1" y="1" width="798" height="48" fill="none" stroke="#21262d" stroke-width="1" rx="7"/>
-  <text x="20" y="32" fill="#00FF9C" font-size="14" font-family="Courier New, monospace">$</text>
-  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
-    <tspan>&#x2192; Solving problems before they become "urgent"</tspan>
-    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
-    <tspan>&#x2192; Systems serving thousands of daily users</tspan>
-    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
-    <tspan>&#x2192; Zero midnight alerts. High uptime. Low drama.</tspan>
-    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <text x="40" y="32" fill="#c9d1d9" font-size="13" font-family="Courier New, monospace">
-    <tspan>&#x2192; Deep-diving into distributed systems</tspan>
-    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="16s" repeatCount="indefinite"/>
-  </text>
-  <rect x="560" y="18" width="8" height="16" fill="#00FF9C" rx="1">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="52" viewBox="0 0 800 52">
+  <rect width="800" height="52" fill="#161b22" rx="8"/>
+  <rect x="1" y="1" width="798" height="50" fill="none" stroke="#30363d" stroke-width="1" rx="7"/>
+  <!-- $ prompt - fixed, never moves -->
+  <text x="16" y="33" fill="#00FF9C" font-size="13" font-family="Courier New,monospace" font-weight="bold">$</text>
+
+  <!-- Line 0: "→ Solving problems b..." -->
+  <defs>
+    <clipPath id="cp0">
+      <rect x="34" y="0" height="52" width="0">
+        <animate attributeName="width"
+          dur="14.0s" repeatCount="indefinite"
+          calcMode="linear"
+          keyTimes="0.0;0.0;7e-05;0.18229;0.22514;0.24657;0.25;1.0"
+          values="0;0;0;343.2;343.2;0;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="34" y="33" fill="#c9d1d9" font-size="13"
+        font-family="Courier New,monospace"
+        clip-path="url(#cp0)">→ Solving problems before they become urgent</text>
+  <!-- cursor: x tracks clip width, hidden between lines -->
+  <rect y="18" width="2" height="15" fill="#00FF9C" rx="0">
+    <animate attributeName="x"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="linear"
+      keyTimes="0.0;0.0;7e-05;0.18229;0.22514;0.24657;0.25;1.0"
+      values="34;34;34;377.2;377.2;34;34;34"/>
+    <animate attributeName="opacity"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="discrete"
+      keyTimes="0.0;0.0;7e-05;0.24657;0.24664;1.0"
+      values="0;0;1;1;0;0"/>
+  </rect>
+  <!-- Line 1: "→ Systems serving th..." -->
+  <defs>
+    <clipPath id="cp1">
+      <rect x="34" y="0" height="52" width="0">
+        <animate attributeName="width"
+          dur="14.0s" repeatCount="indefinite"
+          calcMode="linear"
+          keyTimes="0.0;0.25;0.25007;0.424;0.46686;0.48829;0.5;1.0"
+          values="0;0;0;327.6;327.6;0;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="34" y="33" fill="#c9d1d9" font-size="13"
+        font-family="Courier New,monospace"
+        clip-path="url(#cp1)">→ Systems serving thousands of daily users</text>
+  <!-- cursor: x tracks clip width, hidden between lines -->
+  <rect y="18" width="2" height="15" fill="#00FF9C" rx="0">
+    <animate attributeName="x"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="linear"
+      keyTimes="0.0;0.25;0.25007;0.424;0.46686;0.48829;0.5;1.0"
+      values="34;34;34;361.6;361.6;34;34;34"/>
+    <animate attributeName="opacity"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="discrete"
+      keyTimes="0.0;0.25;0.25007;0.48829;0.48836;1.0"
+      values="0;0;1;1;0;0"/>
+  </rect>
+  <!-- Line 2: "→ Zero midnight aler..." -->
+  <defs>
+    <clipPath id="cp2">
+      <rect x="34" y="0" height="52" width="0">
+        <animate attributeName="width"
+          dur="14.0s" repeatCount="indefinite"
+          calcMode="linear"
+          keyTimes="0.0;0.5;0.50007;0.69471;0.73757;0.759;0.75;1.0"
+          values="0;0;0;366.6;366.6;0;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="34" y="33" fill="#c9d1d9" font-size="13"
+        font-family="Courier New,monospace"
+        clip-path="url(#cp2)">→ Zero midnight alerts. High uptime. Low drama.</text>
+  <!-- cursor: x tracks clip width, hidden between lines -->
+  <rect y="18" width="2" height="15" fill="#00FF9C" rx="0">
+    <animate attributeName="x"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="linear"
+      keyTimes="0.0;0.5;0.50007;0.69471;0.73757;0.759;0.75;1.0"
+      values="34;34;34;400.6;400.6;34;34;34"/>
+    <animate attributeName="opacity"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="discrete"
+      keyTimes="0.0;0.5;0.50007;0.759;0.75907;1.0"
+      values="0;0;1;1;0;0"/>
+  </rect>
+  <!-- Line 3: "→ Deep-diving into d..." -->
+  <defs>
+    <clipPath id="cp3">
+      <rect x="34" y="0" height="52" width="0">
+        <animate attributeName="width"
+          dur="14.0s" repeatCount="indefinite"
+          calcMode="linear"
+          keyTimes="0.0;0.75;0.75007;0.90743;0.95029;0.97171;1.0;1.0"
+          values="0;0;0;296.4;296.4;0;0;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="34" y="33" fill="#c9d1d9" font-size="13"
+        font-family="Courier New,monospace"
+        clip-path="url(#cp3)">→ Deep-diving into distributed systems</text>
+  <!-- cursor: x tracks clip width, hidden between lines -->
+  <rect y="18" width="2" height="15" fill="#00FF9C" rx="0">
+    <animate attributeName="x"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="linear"
+      keyTimes="0.0;0.75;0.75007;0.90743;0.95029;0.97171;1.0;1.0"
+      values="34;34;34;330.4;330.4;34;34;34"/>
+    <animate attributeName="opacity"
+      dur="14.0s" repeatCount="indefinite"
+      calcMode="discrete"
+      keyTimes="0.0;0.75;0.75007;0.97171;0.97179;1.0"
+      values="0;0;1;1;0;0"/>
   </rect>
 </svg>
